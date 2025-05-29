@@ -81,7 +81,3 @@ game/
             high_score.txt
 ...
 ```
-
----
-
-For further questions, please refer to the code comments or contact the project maintainer.
